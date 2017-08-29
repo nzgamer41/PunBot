@@ -1,0 +1,26 @@
+{
+  "name": "punbot",
+  "version": "2.2.2",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+	"bufferutil":"^3.0.0",
+	"sodium":"^2.0.1",
+	"uws":"^0.14.1"
+  },
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzgamer41/PunBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "nzgamer41",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nzgamer41/PunBot/issues"
+  },
+  "homepage": "https://github.com/nzgamer41/PunBot#readme"
+}
